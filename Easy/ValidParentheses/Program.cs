@@ -39,11 +39,11 @@ public class Solution
             {'}', '{'},
             {']', '['}
         };
-        if (s.Length == 1 && s.Length == 0)
+        if (s.Length == 1 || s.Length == 0)
         {
             return false;
         }
-        List<char> openBrackets = new List<char>();
+        Stack<char> openBrackets = new Stack<char>();
 
         foreach (char c in s)
         {
@@ -51,20 +51,17 @@ public class Solution
             if (bracketMap.ContainsKey(c))
             {
                 // Check if there are no open brackets or the last open bracket doesn't match
-                char LastOpernBracket = openBrackets[openBrackets.Count - 1];   
              
-                if (openBrackets.Count == 0 || LastOpernBracket != bracketMap[c])
+                if (openBrackets.Count == 0 || openBrackets.Pop() != bracketMap[c])
                 {
                     return false; // No matching opening bracket or mismatch found
                
                 }
-                openBrackets.Remove(LastOpernBracket);
             }
             // If the character is an opening bracket
             else
             {
-                // Add the opening bracket to the list
-                openBrackets.Add(c);
+                openBrackets.Push(c);
             }
         }
 
