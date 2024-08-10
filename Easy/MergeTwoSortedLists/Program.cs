@@ -15,6 +15,15 @@ public class ListNode
 
 public class Solution
 {
+    #region
+    /*
+      You are given the heads of two sorted linked lists list1 and list2.
+      
+      Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+      
+      Return the head of the merged linked list.
+           */
+    #endregion
     public static ListNode MergeTwoLists(ListNode list1, ListNode list2)
     {
         ListNode head = new ListNode();
@@ -35,7 +44,7 @@ public class Solution
             }
             MergeList = MergeList.next;
         }
-
+        // If either list is not empty, attach the remainder of that list
         MergeList.next = list1 ?? list2;
 
         return head.next;
@@ -58,7 +67,6 @@ public class Solution
 
         // Create list2: 1 -> 3 -> 4
         ListNode list2 = new ListNode(1, new ListNode(3, new ListNode(4)));
-
 
         PrintList(MergeTwoLists(list1, list2));
     }
