@@ -1,18 +1,5 @@
 ﻿public class Solution
 {
-    public static bool Check(char bitA, char bitB, char reminder)
-    {
-        if ((bitA == '0' && bitB == '0') ||
-            (bitA == '0' && reminder == '0') ||
-            (bitB == '0' && reminder == '0'))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
 
     public static  string AddBinary(string a, string b)
     {
