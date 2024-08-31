@@ -28,7 +28,6 @@ public class Solution
             {
                 sum += num * num;
             }
-            Console.WriteLine($"Sum: {sum}");
             n = sum;
         }
 
