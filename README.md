@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| Harshad Number                                      | Math      | [Program.cs](./Easy/HarshadNumber/Program.cs) |
 | Counting Words With a Given Prefix                  | String      | [Program.cs](./Easy/CountingWordsWithaGivenPrefix/Program.cs) |
 | Add Digits                                           | Math        | [AddDigits.cs](./Easy/AddDigits/Program.cs) |
 | Add Strings                                          | String      | [AddStrings.cs](./Easy/AddStrings/Program.cs) |
