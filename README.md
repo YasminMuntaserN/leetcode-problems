@@ -6,8 +6,8 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
-| Harshad Number                                      | Math      | [Program.cs](./Easy/HarshadNumber/Program.cs) |
-| Counting Words With a Given Prefix                  | String      | [Program.cs](./Easy/CountingWordsWithaGivenPrefix/Program.cs) |
+| Harshad Number                                      | Math      | [HarshadNumber.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Harshad%20Number/Program.cs) |
+| Counting Words With a Given Prefix                  | String      | [CountingWordsWithaGivenPrefix.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Counting%20Words%20With%20a%20Given%20Prefix/Program.cs) |
 | Add Digits                                           | Math        | [AddDigits.cs](./Easy/AddDigits/Program.cs) |
 | Add Strings                                          | String      | [AddStrings.cs](./Easy/AddStrings/Program.cs) |
 | AddBinary                                           | Math        | [AddBinary.cs](./Easy/AddBinary/Program.cs) |
