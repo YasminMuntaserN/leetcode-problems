@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag pattern", "zigzag pattern.csproj", "{14D3C62A-8B66-4751-99D1-E2DC85854ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D3C62A-8B66-4751-99D1-E2DC85854ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D3C62A-8B66-4751-99D1-E2DC85854ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D3C62A-8B66-4751-99D1-E2DC85854ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D3C62A-8B66-4751-99D1-E2DC85854ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370D46F4-AC87-4160-8C16-644549E93914}
+	EndGlobalSection
+EndGlobal
