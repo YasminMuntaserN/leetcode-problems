@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| Merge Sorted Array                                   | Array      | [MergeSortedArray.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Merge%20Sorted%20Array/Program.cs) |
 | Zigzag Conversion                                     | String      | [ZigzagConversion .cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Medium/zigzag%20pattern/Program.cs) |
 | Harshad Number                                      | Math      | [HarshadNumber.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Harshad%20Number/Program.cs) |
 | Counting Words With a Given Prefix                  | String      | [CountingWordsWithaGivenPrefix.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Counting%20Words%20With%20a%20Given%20Prefix/Program.cs) |
