@@ -6,10 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
-| Binary Tree Inorder Traversal                           |Stack
-Tree
-Depth-First Search
-Binary Tree     | [BinaryTreeInorderTraversal.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/ConsoleApp1/Program.cs) |
+| Binary Tree Inorder Traversal                           |Stack,Tree,Binary Tree  | [BinaryTreeInorderTraversal.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/ConsoleApp1/Program.cs) |
 | Pascal's Triangle II                           | Dynamic Programming      | [Pascal'sTriangleII.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Pascal's%20Triangle%20II/Program.cs) |
 | Pascal's Triangle                                | Dynamic Programming      | [Pascal'sTriangle.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Pascal's%20Triangle/Program.cs) |
 | Merge Sorted Array                                   | Array      | [MergeSortedArray.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Merge%20Sorted%20Array/Program.cs) |
