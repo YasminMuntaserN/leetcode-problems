@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock.csproj", "{52F4D06C-BB46-4217-A08D-70D6EA80AB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F4D06C-BB46-4217-A08D-70D6EA80AB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F4D06C-BB46-4217-A08D-70D6EA80AB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F4D06C-BB46-4217-A08D-70D6EA80AB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F4D06C-BB46-4217-A08D-70D6EA80AB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF15E2E-15E5-441A-A6E5-FA017367FA14}
+	EndGlobalSection
+EndGlobal
