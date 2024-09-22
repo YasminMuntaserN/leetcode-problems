@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| Contains Duplicate II                                 | Array ,Hash Table      | [ContainsDuplicateII.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Contains%20Duplicate%20II/Program.cs) |
 | Check if Number Has Equal Digit Count and Digit Value| Hash Table ,String,Counting      | [DigitCount.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/Program.cs) |
 | Best Time to Buy and Sell Stock                         | Dynamic Programming ,Array     | [BestTimeToBuyAndSellStock.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Program.cs) |
 | Binary Tree Inorder Traversal                           |Stack,Tree,Binary Tree  | [BinaryTreeInorderTraversal.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/ConsoleApp1/Program.cs) |
