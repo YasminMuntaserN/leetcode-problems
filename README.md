@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Number of Days Between Two Dates                            |Math , String    | [DaysBetweenDates.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20of%20Days%20Between%20Two%20Dates/Program.cs) |
 |  Valid Anagram                              | Hash Table , String , Sorting    | [ValidAnagram.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Valid%20Anagram/Program.cs) |
 | Contains Duplicate II                                 | Array ,Hash Table      | [ContainsDuplicateII.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Contains%20Duplicate%20II/Program.cs) |
 | Check if Number Has Equal Digit Count and Digit Value| Hash Table ,String,Counting      | [DigitCount.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/Program.cs) |
