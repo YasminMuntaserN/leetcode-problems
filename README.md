@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Day of the Week                          | Math     | [ DayOfWeek.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Day%20of%20the%20Week/Program.cs) |
 |  Number of Days Between Two Dates                            |Math , String    | [DaysBetweenDates.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20of%20Days%20Between%20Two%20Dates/Program.cs) |
 |  Valid Anagram                              | Hash Table , String , Sorting    | [ValidAnagram.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Valid%20Anagram/Program.cs) |
 | Contains Duplicate II                                 | Array ,Hash Table      | [ContainsDuplicateII.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Contains%20Duplicate%20II/Program.cs) |
