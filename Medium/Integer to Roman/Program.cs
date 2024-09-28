@@ -8,7 +8,7 @@
      */
     public static string IntToRoman(int num)
     {
-        string shortchat = "";
+        string s = "";
         // List of Roman numeral mappings
         List<KeyValuePair<string, int>> dic = new List<KeyValuePair<string, int>>
         {
@@ -32,13 +32,13 @@
         {
             while (num >= pair.Value)
             {
-                shortchat += pair.Key;
+                s += pair.Key;
                // Console.WriteLine($"{shortchat} , {num},{pair.Value}");
                 num -= pair.Value;
             }
         }
 
-        return shortchat;
+        return s;
     }
 
     public static void Main()
