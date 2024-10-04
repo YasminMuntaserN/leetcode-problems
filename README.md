@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Reverse String II   | String  | [ ReverseStr.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Reverse%20String%20II/Program.cs) |
 |  IsAlienSorted                        | Array , String   | [ IsAlienSorted.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Verifying%20an%20Alien%20Dictionary/Program.cs) |
 | 3Sum                        | Array , Two Pointers , Sorting     | [3Sum.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Medium/3Sum/Program.cs) |
 | Int To Roman                         | Math , String     | [IntToRoman.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Medium/Integer%20to%20Roman/Program.cs) |
