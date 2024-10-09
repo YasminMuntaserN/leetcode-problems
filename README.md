@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| Ransom Note   |  String  | [ RansomNote.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/CanConstruct/Program.cs) |
 |  Is Subsequence   | Two Pointers , String , Dynamic Programming  | [ IsSubsequence.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Is%20Subsequence/Program.cs) |
 |  Reverse Vowels of a String   | String  | [ ReverseVowels.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Reverse%20Vowels%20of%20a%20String/Program.cs) |
 |  Reverse String II   | String  | [ ReverseStr.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Reverse%20String%20II/Program.cs) |
