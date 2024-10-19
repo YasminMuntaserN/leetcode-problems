@@ -6,7 +6,8 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
-| Find the Difference  |String  | [  FindTheDifference.cs](https://github.com/YasminMuntaserN/leetcode-problems/tree/main/Easy/Find%20the%20Difference) |
+| Move Zeroes |Array ,Two Pointers  | [ MoveZeroes.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Move%20Zeroes/Program.cs) |
+| Find the Difference  |String  | [  FindTheDifference.cs](https://github.com/YasminMuntaserN/leetcode-problems/tree/main/Easy/Find%20the%20Difference/Program.c) |
 |  Nim Game  |Math  | [  NimGame.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Nim%20Game/Program.cs) |
 | DayOfYear  |Math ,String | [ DayOfYear.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Day%20of%20the%20Week/Program.cs) |
 | Pow(x, n)  |Math  | [ Pow(x, n).cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20of%201%20Bits/Program.cs) |
