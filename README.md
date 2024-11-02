@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| First Unique Character in a String |String  | [FirstUniqueCharacter.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/First%20Unique%20Character%20in%20a%20String/Program.cs) |
 | Fizz Buzz |Math ,String  | [FizzBuzz.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/FizzBuzz/Program.cs) |
 | Longest Palindrome |Hash Table ,String  | [LongestPalindrome.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Longest%20Palindrome/Program.cs) |
 | Move Zeroes |Array ,Two Pointers  | [ MoveZeroes.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Move%20Zeroes/Program.cs) |
