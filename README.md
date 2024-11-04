@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Intersection of Two Arrays |Array , Hash Table  | [Intersection.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Intersection%20of%20Two%20Arrays/Program.cs) |
 | Counting Bits |Dynamic Programming , Bit Manipulation  | [CountBits.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Counting%20Bits/Program.cs) |
 | Convert a Number to Hexadecimal |Math  | [ToHex.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Convert%20a%20Number%20to%20Hexadecimal/Program.cs) |
 | First Unique Character in a String |String  | [FirstUniqueCharacter.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/First%20Unique%20Character%20in%20a%20String/Program.cs) |
