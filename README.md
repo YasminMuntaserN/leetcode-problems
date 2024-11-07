@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Third Maximum Number |Array , Sorting  | [ThirdMax.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Third%20Maximum%20Number/Program.cs) |
 |  Intersection of Two Arrays II |Array , Hash Table  | [Intersection.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Intersection%20of%20Two%20Arrays%20II/Program.cs) |
 |  Intersection of Two Arrays |Array , Hash Table  | [Intersection.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Intersection%20of%20Two%20Arrays/Program.cs) |
 | Counting Bits |Dynamic Programming , Bit Manipulation  | [CountBits.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Counting%20Bits/Program.cs) |
