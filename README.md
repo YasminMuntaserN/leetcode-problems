@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Repeated Substring Pattern |String| [RepeatedSubstringPattern.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Repeated%20Substring%20Pattern/Program.cs) |
 |  Find All Numbers Disappeared in an Array |Array| [FindDisappearedNumbers.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Program.cs)|
 |  Number of Segments in a String |String| [CountSegments.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20of%20Segments%20in%20a%20String/Program.cs) |
 |  Third Maximum Number |Array , Sorting  | [ThirdMax.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Third%20Maximum%20Number/Program.cs) |
