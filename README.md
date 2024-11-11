@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  Number Complement |Bit Manipulation| [FindComplement.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20Complement/Program.cs) |
 |   Hamming Distance |Bit Manipulation| [HammingDistance.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Hamming%20Distance/Program.cs) |
 |  Repeated Substring Pattern |String| [RepeatedSubstringPattern.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Repeated%20Substring%20Pattern/Program.cs) |
 |  Find All Numbers Disappeared in an Array |Array| [FindDisappearedNumbers.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Program.cs)|
