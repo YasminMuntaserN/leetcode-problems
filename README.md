@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+|  License Key Formatting |String| [LicenseKeyFormatting.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/License%20Key%20Formatting/Program.cs) |
 |  Number Complement |Bit Manipulation| [FindComplement.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Number%20Complement/Program.cs) |
 |   Hamming Distance |Bit Manipulation| [HammingDistance.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Hamming%20Distance/Program.cs) |
 |  Repeated Substring Pattern |String| [RepeatedSubstringPattern.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Repeated%20Substring%20Pattern/Program.cs) |
