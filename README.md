@@ -6,7 +6,8 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
-|  Next Greater Element |Array , Hash Table| [NextGreaterElement.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Construct%20the%20Rectangle/Program.cs) |
+|  Keyboard Row |Array , Hash Table| [FindWords.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Keyboard%20Row/Program.cs) |
+|  Next Greater Element |Array , Hash Table| [NextGreaterElement.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Next%20Greater%20Element%20I/Program.cs) |
 |  Construct Rectangle |Math| [ConstructRectangle.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Construct%20the%20Rectangle/Program.cs) |
 |  Max Consecutive Ones |Array| [FindMaxConsecutiveOnes.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Max%20Consecutive%20Ones/Program.cs) |
 |  License Key Formatting |String| [LicenseKeyFormatting.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/License%20Key%20Formatting/Program.cs) |
