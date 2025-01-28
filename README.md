@@ -6,7 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
-| Buddy Strings |Math| [PerfectNumber.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Perfect%20Number/Perfect%20Number/Program.cs) |
+| Perfect Number |Math| [PerfectNumber.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Perfect%20Number/Perfect%20Number/Program.cs) |
 | Buddy Strings |String , Hash Table| [BuddyStrings.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Buddy%20Strings/Buddy%20Strings/Program.cs) |
 |  Remove Letter To Equalize Frequency |String |[RemoveLetterToEqualizeFrequency.cs](https://github.com/YasminMuntaserN/leetcodeproblems/blob/main/Easy/Remove%20Letter%20To%20Equalize%20Frequency/Remove%20Letter%20To%20Equalize%20Frequency/Program.cs) |
 |  Keyboard Row |Array , Hash Table| [FindWords.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Keyboard%20Row/Program.cs) |
