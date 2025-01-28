@@ -6,6 +6,7 @@ Below is a table listing the LeetCode problems, their topics, and links to their
 
 | **Question Name**                                    | **Topics**  | **File**  |
 |------------------------------------------------------|-------------|-----------|
+| Buddy Strings |String , Hash Table| [BuddyStrings.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Buddy%20Strings/Buddy%20Strings/Program.cs) |
 |  Remove Letter To Equalize Frequency |String |[RemoveLetterToEqualizeFrequency.cs](https://github.com/YasminMuntaserN/leetcodeproblems/blob/main/Easy/Remove%20Letter%20To%20Equalize%20Frequency/Remove%20Letter%20To%20Equalize%20Frequency/Program.cs) |
 |  Keyboard Row |Array , Hash Table| [FindWords.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Keyboard%20Row/Program.cs) |
 |  Next Greater Element |Array , Hash Table| [NextGreaterElement.cs](https://github.com/YasminMuntaserN/leetcode-problems/blob/main/Easy/Next%20Greater%20Element%20I/Program.cs) |
